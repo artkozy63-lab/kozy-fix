@@ -6,7 +6,7 @@ Aplicacao para personalizar e otimizar configuracoes de rato, teclado, jogos e e
 
 [Descarregar a versao mais recente para Windows](https://github.com/artkozy63-lab/kozy-fix/releases/latest)
 
-Na pagina da release, descarregue o ficheiro **Kozy.Fix.Setup.1.7.2.exe**.
+Na pagina da release, descarregue o ficheiro **Kozy.Fix.Setup.1.7.3.exe**.
 
 ## Instalar
 
